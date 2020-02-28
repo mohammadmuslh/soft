@@ -2,7 +2,7 @@ package test;
 
 import soft.*;
 
- 
+ import static org.junit.Assert.*;
 class Soft1 {
 	
 	void test() {

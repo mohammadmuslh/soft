@@ -4,7 +4,7 @@ import soft.*;
 
  
 class Soft1 {
-	]
+	
 	void test() {
 		Soft o = new Soft();
 	int r =	o.add(100,200);
